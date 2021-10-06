@@ -40,7 +40,7 @@ const team = [
     name: 'Hassan El Mghari',
     role: 'Developer Advocate',
     image: hassan,
-    twitterUrl: 'hhttps://twitter.com/Nutlope',
+    twitterUrl: 'https://twitter.com/Nutlope',
     githubUrl: 'https://github.com/nutlope'
   }
 ]
